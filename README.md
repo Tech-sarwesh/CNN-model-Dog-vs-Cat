@@ -1,13 +1,13 @@
 # CNN-model-Dog-vs-Cat
-🐶🐱 A Convolutional Neural Network (CNN) model to classify images of cats and dogs using TensorFlow &amp; Keras.
+🐶🐱 A Convolutional Neural Network (CNN) model to classify images of cats and dogs using TensorFlow & Keras.
+
 # 🐶🐱 Cats vs Dogs Classification with CNN  
 
-**Owner:** [tech_sarwesh](https://github.com/tech-sarwesh)  
+**CODE_BY:** [tech_sarwesh](https://github.com/tech-sarwesh)  
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)  
 ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red)  
-![License](https://img.shields.io/badge/License-MIT-green)  
 
 ---
 
@@ -23,5 +23,31 @@ The workflow includes:
 
 ---
 
-## 📂 Dataset Structure  
+## 📦 Requirements  
+
+```bash
+numpy
+matplotlib
+seaborn
+opencv-python
+pillow
+tensorflow
+scikit-learn
+```
+
+## ⚙️ Installation
+
+Follow these steps to set up the project:
+```bash
+git clone git@github.com:Tech-sarwesh/CNN-model-Dog-vs-Cat.git
+cd CNN-model-Dog-vs-Cat
+pip install -r requirements.txt
+```
+---
+## Update(SOON.....)
+
+In Update - 
+- Data Augmentation
+- Add API feature
+
 
