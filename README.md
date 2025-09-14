@@ -50,4 +50,32 @@ In Update -
 - Data Augmentation
 - Add API feature
 
+## 📂 Project Structure
+
+- 📁 CNN-model-Dog-vs-Cat/
+- 📁 dog_cat
+  - 📁 catvsdogs/
+    - 📁 train/
+      - 🐱 cats/
+      - 🐶 dogs/
+    - 📁 test/
+      - 🐱 cats/
+      - 🐶 dogs/
+  - 📁 test
+    - 🐱 cats/
+    - 🐶 dogs/
+  - 📁 train
+    - 🐱 cats/
+    - 🐶 dogs/
+- 📁 notebooks/
+  - 📄 data_visualization.ipynb
+- 📁 src/
+  - 📄 data_loader.py
+  - 📄 model.py
+  - 📄 train.py
+  - 📄 evaluate.py
+  - 📄 predict.py
+- 📄 requirements.txt
+- 📄 README.md
+
 
