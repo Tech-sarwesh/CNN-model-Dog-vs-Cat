@@ -81,6 +81,8 @@ In Update -
 ## IMAGES
 
 ![SCR-1](https://github.com/Tech-sarwesh/CNN-model-Dog-vs-Cat/blob/main/Screenshot%202025-09-14%20103706.png)
+--
 ![SCR-1](https://github.com/Tech-sarwesh/CNN-model-Dog-vs-Cat/blob/main/Screenshot%202025-09-14%20103752.png)
+--
 ![SCR-1](https://github.com/Tech-sarwesh/CNN-model-Dog-vs-Cat/blob/main/Screenshot%202025-09-14%20103826.png)
 
